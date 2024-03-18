@@ -95,3 +95,7 @@ public class SimpleChatbot {
     }
 }
 
+
+program images :
+![Screenshot 2024-03-18 122441](https://github.com/potnurukrishnarao/CHATBOX/assets/163103947/0ae4592c-a9ef-4ea6-ae51-4e47784332a0)
+
